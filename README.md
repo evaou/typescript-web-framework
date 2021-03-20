@@ -9,3 +9,8 @@
     $ json-server -w db.json
 
     $ npm install axios
+
+## Run
+
+    $ npm run start:db
+    $ npm run start:parcel
