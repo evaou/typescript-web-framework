@@ -10,6 +10,8 @@
 
     $ npm install axios
 
+    $ tsc --init
+
 ## Run
 
     $ npm run start:db
